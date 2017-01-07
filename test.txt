@@ -16,4 +16,3 @@ keytool -list -keystore /opt/apache-tomcat-8.5.8/conf/tomcat-testkeystore
 now modify server.xml to enable SSL/TLS (certificateKeystoreFile="conf/tomcat-testkeystore" and keystorePass="test123")
 
 
-dkjaflkdjslkjf
